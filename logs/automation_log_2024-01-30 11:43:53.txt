@@ -1,0 +1,506 @@
+2024-01-30 11:43:53 - ------RUN: 2024-01-30 11:43:53-----
+2024-01-30 11:43:53 - CHECKING url:https://rss.app/feeds/Z2bu6yODd2bf6YHz.xml
+2024-01-30 11:43:53 - No new posts found in the last 25 minutes.
+2024-01-30 11:43:53 - CHECKING url:https://rss.app/feeds/nF0z0htIiSicmtEI.xml
+2024-01-30 11:43:53 - No new posts found in the last 25 minutes.
+2024-01-30 11:43:53 - CHECKING url:https://rss.app/feeds/PCZj6SecAiczl008.xml
+2024-01-30 11:43:53 - No new posts found in the last 25 minutes.
+2024-01-30 11:43:53 - CHECKING url:https://rss.app/feeds/gQlzKnatnDocOeKr.xml
+2024-01-30 11:43:53 - No new posts found in the last 25 minutes.
+2024-01-30 11:43:53 - CHECKING url:https://rss.app/feeds/e8sadvIssZq4g7jE.xml
+2024-01-30 11:43:53 - No new posts found in the last 25 minutes.
+2024-01-30 11:43:53 - CHECKING url:https://rss.app/feeds/D0rdoyggUqo9sb8P.xml
+2024-01-30 11:43:53 - Already replied to this tweet
+2024-01-30 11:43:53 - CHECKING url:https://rss.app/feeds/14LxHDmmYlPARKsd.xml
+2024-01-30 11:43:53 - No new posts found in the last 25 minutes.
+2024-01-30 11:43:54 - CHECKING url:https://rss.app/feeds/g3SMp0L2gF7nygeF.xml
+2024-01-30 11:43:54 - No new posts found in the last 25 minutes.
+2024-01-30 11:43:54 - CHECKING url:https://rss.app/feeds/buuO3P4us5Z5vK7k.xml
+2024-01-30 11:43:54 - Already replied to this tweet
+2024-01-30 11:43:54 - CHECKING url:https://rss.app/feeds/vksuUddM1MNKu4X9.xml
+2024-01-30 11:43:54 - No new posts found in the last 25 minutes.
+2024-01-30 11:43:54 - CHECKING url:https://rss.app/feeds/ukk7rZTH4VMxByUk.xml
+2024-01-30 11:43:54 - No new posts found in the last 25 minutes.
+2024-01-30 11:43:54 - CHECKING url:https://rss.app/feeds/ekrmgWuZaXTNI2pA.xml
+2024-01-30 11:43:54 - No new posts found in the last 25 minutes.
+2024-01-30 11:43:54 - CHECKING url:https://rss.app/feeds/DivJ2iYw7KOcsGK6.xml
+2024-01-30 11:43:54 - No new posts found in the last 25 minutes.
+2024-01-30 11:43:54 - CHECKING url:https://rss.app/feeds/Sh6a8c7kumlSaOAc.xml
+2024-01-30 11:43:54 - Already replied to this tweet
+2024-01-30 11:43:54 - CHECKING url:https://rss.app/feeds/HkyNl9eeYDOrUBxr.xml
+2024-01-30 11:43:54 - No new posts found in the last 25 minutes.
+2024-01-30 11:43:55 - CHECKING url:https://rss.app/feeds/SfagktHZw5X11tlY.xml
+2024-01-30 11:43:55 - No new posts found in the last 25 minutes.
+2024-01-30 11:43:55 - CHECKING url:https://rss.app/feeds/ifLDZNGwTtgA57Wu.xml
+2024-01-30 11:43:55 - Already replied to this tweet
+2024-01-30 11:43:55 - CHECKING url:https://rss.app/feeds/1ElygOT0SPNp00TF.xml
+2024-01-30 11:43:55 - Already replied to this tweet
+2024-01-30 11:43:55 - CHECKING url:https://rss.app/feeds/ojZJT6ZJQFN2w7WS.xml
+2024-01-30 11:43:55 - No new posts found in the last 25 minutes.
+2024-01-30 11:43:55 - CHECKING url:https://rss.app/feeds/iqARUd9IHBFbuShi.xml
+2024-01-30 11:43:55 - No new posts found in the last 25 minutes.
+2024-01-30 11:43:55 - SLEEPING: for 25 min
+2024-01-30 12:08:55 - CHECKING url:https://rss.app/feeds/Z2bu6yODd2bf6YHz.xml
+2024-01-30 12:08:55 - No new posts found in the last 25 minutes.
+2024-01-30 12:08:56 - CHECKING url:https://rss.app/feeds/nF0z0htIiSicmtEI.xml
+2024-01-30 12:08:56 - No new posts found in the last 25 minutes.
+2024-01-30 12:08:56 - CHECKING url:https://rss.app/feeds/PCZj6SecAiczl008.xml
+2024-01-30 12:08:56 - No new posts found in the last 25 minutes.
+2024-01-30 12:08:56 - CHECKING url:https://rss.app/feeds/gQlzKnatnDocOeKr.xml
+2024-01-30 12:08:56 - No new posts found in the last 25 minutes.
+2024-01-30 12:08:56 - CHECKING url:https://rss.app/feeds/e8sadvIssZq4g7jE.xml
+2024-01-30 12:08:56 - No new posts found in the last 25 minutes.
+2024-01-30 12:08:57 - CHECKING url:https://rss.app/feeds/D0rdoyggUqo9sb8P.xml
+2024-01-30 12:08:57 - No new posts found in the last 25 minutes.
+2024-01-30 12:08:57 - CHECKING url:https://rss.app/feeds/14LxHDmmYlPARKsd.xml
+2024-01-30 12:08:57 - No new posts found in the last 25 minutes.
+2024-01-30 12:08:57 - CHECKING url:https://rss.app/feeds/g3SMp0L2gF7nygeF.xml
+2024-01-30 12:08:57 - No new posts found in the last 25 minutes.
+2024-01-30 12:08:57 - CHECKING url:https://rss.app/feeds/buuO3P4us5Z5vK7k.xml
+2024-01-30 12:08:57 - No new posts found in the last 25 minutes.
+2024-01-30 12:08:58 - CHECKING url:https://rss.app/feeds/vksuUddM1MNKu4X9.xml
+2024-01-30 12:08:58 - No new posts found in the last 25 minutes.
+2024-01-30 12:08:58 - CHECKING url:https://rss.app/feeds/ukk7rZTH4VMxByUk.xml
+2024-01-30 12:08:58 - No new posts found in the last 25 minutes.
+2024-01-30 12:08:58 - CHECKING url:https://rss.app/feeds/ekrmgWuZaXTNI2pA.xml
+2024-01-30 12:08:58 - No new posts found in the last 25 minutes.
+2024-01-30 12:08:58 - CHECKING url:https://rss.app/feeds/DivJ2iYw7KOcsGK6.xml
+2024-01-30 12:08:58 - No new posts found in the last 25 minutes.
+2024-01-30 12:08:59 - CHECKING url:https://rss.app/feeds/Sh6a8c7kumlSaOAc.xml
+2024-01-30 12:08:59 - No new posts found in the last 25 minutes.
+2024-01-30 12:08:59 - CHECKING url:https://rss.app/feeds/HkyNl9eeYDOrUBxr.xml
+2024-01-30 12:08:59 - No new posts found in the last 25 minutes.
+2024-01-30 12:08:59 - CHECKING url:https://rss.app/feeds/SfagktHZw5X11tlY.xml
+2024-01-30 12:08:59 - REPLYING to tweet:1752372811530645847
+2024-01-30 12:09:02 - SUCCESSFUL REPLY: 1752378399178318259
+2024-01-30 12:09:28 - CHECKING url:https://rss.app/feeds/ifLDZNGwTtgA57Wu.xml
+2024-01-30 12:09:28 - No new posts found in the last 25 minutes.
+2024-01-30 12:09:28 - CHECKING url:https://rss.app/feeds/1ElygOT0SPNp00TF.xml
+2024-01-30 12:09:28 - No new posts found in the last 25 minutes.
+2024-01-30 12:09:28 - CHECKING url:https://rss.app/feeds/ojZJT6ZJQFN2w7WS.xml
+2024-01-30 12:09:28 - No new posts found in the last 25 minutes.
+2024-01-30 12:09:28 - CHECKING url:https://rss.app/feeds/iqARUd9IHBFbuShi.xml
+2024-01-30 12:09:28 - REPLYING to tweet:1752376129045107057
+2024-01-30 12:09:31 - SUCCESSFUL REPLY: 1752378521131900980
+2024-01-30 12:09:56 - SLEEPING: for 25 min
+2024-01-30 12:45:15 - CHECKING url:https://rss.app/feeds/Z2bu6yODd2bf6YHz.xml
+2024-01-30 12:45:15 - No new posts found in the last 25 minutes.
+2024-01-30 12:45:16 - CHECKING url:https://rss.app/feeds/nF0z0htIiSicmtEI.xml
+2024-01-30 12:45:16 - No new posts found in the last 25 minutes.
+2024-01-30 12:45:16 - CHECKING url:https://rss.app/feeds/PCZj6SecAiczl008.xml
+2024-01-30 12:45:16 - No new posts found in the last 25 minutes.
+2024-01-30 12:45:16 - CHECKING url:https://rss.app/feeds/gQlzKnatnDocOeKr.xml
+2024-01-30 12:45:16 - No new posts found in the last 25 minutes.
+2024-01-30 12:45:17 - CHECKING url:https://rss.app/feeds/e8sadvIssZq4g7jE.xml
+2024-01-30 12:45:17 - No new posts found in the last 25 minutes.
+2024-01-30 12:45:17 - CHECKING url:https://rss.app/feeds/D0rdoyggUqo9sb8P.xml
+2024-01-30 12:45:17 - REPLYING to tweet:1752384104127926661
+2024-01-30 12:45:20 - SUCCESSFUL REPLY: 1752387531864244466
+2024-01-30 12:45:45 - CHECKING url:https://rss.app/feeds/14LxHDmmYlPARKsd.xml
+2024-01-30 12:45:45 - No new posts found in the last 25 minutes.
+2024-01-30 12:45:45 - CHECKING url:https://rss.app/feeds/g3SMp0L2gF7nygeF.xml
+2024-01-30 12:45:45 - No new posts found in the last 25 minutes.
+2024-01-30 12:45:46 - CHECKING url:https://rss.app/feeds/buuO3P4us5Z5vK7k.xml
+2024-01-30 12:45:46 - REPLYING to tweet:1752381772468293721
+2024-01-30 12:45:48 - SUCCESSFUL REPLY: 1752387650172936392
+2024-01-30 12:46:13 - CHECKING url:https://rss.app/feeds/vksuUddM1MNKu4X9.xml
+2024-01-30 12:46:13 - No new posts found in the last 25 minutes.
+2024-01-30 12:46:14 - CHECKING url:https://rss.app/feeds/ukk7rZTH4VMxByUk.xml
+2024-01-30 12:46:14 - No new posts found in the last 25 minutes.
+2024-01-30 12:46:14 - CHECKING url:https://rss.app/feeds/ekrmgWuZaXTNI2pA.xml
+2024-01-30 12:46:14 - No new posts found in the last 25 minutes.
+2024-01-30 12:46:14 - CHECKING url:https://rss.app/feeds/DivJ2iYw7KOcsGK6.xml
+2024-01-30 12:46:14 - No new posts found in the last 25 minutes.
+2024-01-30 12:46:14 - CHECKING url:https://rss.app/feeds/Sh6a8c7kumlSaOAc.xml
+2024-01-30 12:46:14 - No new posts found in the last 25 minutes.
+2024-01-30 12:46:15 - CHECKING url:https://rss.app/feeds/HkyNl9eeYDOrUBxr.xml
+2024-01-30 12:46:15 - No new posts found in the last 25 minutes.
+2024-01-30 12:46:15 - CHECKING url:https://rss.app/feeds/SfagktHZw5X11tlY.xml
+2024-01-30 12:46:15 - No new posts found in the last 25 minutes.
+2024-01-30 12:46:15 - CHECKING url:https://rss.app/feeds/ifLDZNGwTtgA57Wu.xml
+2024-01-30 12:46:15 - No new posts found in the last 25 minutes.
+2024-01-30 12:46:16 - CHECKING url:https://rss.app/feeds/1ElygOT0SPNp00TF.xml
+2024-01-30 12:46:16 - No new posts found in the last 25 minutes.
+2024-01-30 12:46:16 - CHECKING url:https://rss.app/feeds/ojZJT6ZJQFN2w7WS.xml
+2024-01-30 12:46:16 - No new posts found in the last 25 minutes.
+2024-01-30 12:46:16 - CHECKING url:https://rss.app/feeds/iqARUd9IHBFbuShi.xml
+2024-01-30 12:46:16 - No new posts found in the last 25 minutes.
+2024-01-30 12:46:16 - SLEEPING: for 25 min
+2024-01-30 13:11:17 - CHECKING url:https://rss.app/feeds/Z2bu6yODd2bf6YHz.xml
+2024-01-30 13:11:17 - No new posts found in the last 25 minutes.
+2024-01-30 13:11:17 - CHECKING url:https://rss.app/feeds/nF0z0htIiSicmtEI.xml
+2024-01-30 13:11:17 - No new posts found in the last 25 minutes.
+2024-01-30 13:11:17 - CHECKING url:https://rss.app/feeds/PCZj6SecAiczl008.xml
+2024-01-30 13:11:17 - No new posts found in the last 25 minutes.
+2024-01-30 13:11:17 - CHECKING url:https://rss.app/feeds/gQlzKnatnDocOeKr.xml
+2024-01-30 13:11:17 - No new posts found in the last 25 minutes.
+2024-01-30 13:11:17 - CHECKING url:https://rss.app/feeds/e8sadvIssZq4g7jE.xml
+2024-01-30 13:11:17 - No new posts found in the last 25 minutes.
+2024-01-30 13:11:18 - CHECKING url:https://rss.app/feeds/D0rdoyggUqo9sb8P.xml
+2024-01-30 13:11:18 - REPLYING to tweet:1752391796410183992
+2024-01-30 13:11:20 - SUCCESSFUL REPLY: 1752394075758612613
+2024-01-30 13:11:45 - CHECKING url:https://rss.app/feeds/14LxHDmmYlPARKsd.xml
+2024-01-30 13:11:45 - No new posts found in the last 25 minutes.
+2024-01-30 13:11:45 - CHECKING url:https://rss.app/feeds/g3SMp0L2gF7nygeF.xml
+2024-01-30 13:11:45 - REPLYING to tweet:1752392758449566005
+2024-01-30 13:11:47 - SUCCESSFUL REPLY: 1752394190258950577
+2024-01-30 13:12:12 - CHECKING url:https://rss.app/feeds/buuO3P4us5Z5vK7k.xml
+2024-01-30 13:12:12 - No new posts found in the last 25 minutes.
+2024-01-30 13:12:12 - CHECKING url:https://rss.app/feeds/vksuUddM1MNKu4X9.xml
+2024-01-30 13:12:12 - No new posts found in the last 25 minutes.
+2024-01-30 13:12:13 - CHECKING url:https://rss.app/feeds/ukk7rZTH4VMxByUk.xml
+2024-01-30 13:12:13 - No new posts found in the last 25 minutes.
+2024-01-30 13:12:13 - CHECKING url:https://rss.app/feeds/ekrmgWuZaXTNI2pA.xml
+2024-01-30 13:12:13 - No new posts found in the last 25 minutes.
+2024-01-30 13:12:13 - CHECKING url:https://rss.app/feeds/DivJ2iYw7KOcsGK6.xml
+2024-01-30 13:12:13 - No new posts found in the last 25 minutes.
+2024-01-30 13:12:13 - CHECKING url:https://rss.app/feeds/Sh6a8c7kumlSaOAc.xml
+2024-01-30 13:12:13 - No new posts found in the last 25 minutes.
+2024-01-30 13:12:14 - CHECKING url:https://rss.app/feeds/HkyNl9eeYDOrUBxr.xml
+2024-01-30 13:12:14 - No new posts found in the last 25 minutes.
+2024-01-30 13:12:14 - CHECKING url:https://rss.app/feeds/SfagktHZw5X11tlY.xml
+2024-01-30 13:12:14 - REPLYING to tweet:1752391226521964760
+2024-01-30 13:12:16 - SUCCESSFUL REPLY: 1752394311243641021
+2024-01-30 13:12:41 - CHECKING url:https://rss.app/feeds/ifLDZNGwTtgA57Wu.xml
+2024-01-30 13:12:41 - No new posts found in the last 25 minutes.
+2024-01-30 13:12:41 - CHECKING url:https://rss.app/feeds/1ElygOT0SPNp00TF.xml
+2024-01-30 13:12:41 - No new posts found in the last 25 minutes.
+2024-01-30 13:12:41 - CHECKING url:https://rss.app/feeds/ojZJT6ZJQFN2w7WS.xml
+2024-01-30 13:12:41 - No new posts found in the last 25 minutes.
+2024-01-30 13:12:42 - CHECKING url:https://rss.app/feeds/iqARUd9IHBFbuShi.xml
+2024-01-30 13:12:42 - REPLYING to tweet:1752391228061294805
+2024-01-30 13:12:44 - SUCCESSFUL REPLY: 1752394429694898408
+2024-01-30 13:13:09 - SLEEPING: for 25 min
+2024-01-30 13:38:09 - CHECKING url:https://rss.app/feeds/Z2bu6yODd2bf6YHz.xml
+2024-01-30 13:38:09 - No new posts found in the last 25 minutes.
+2024-01-30 13:38:10 - CHECKING url:https://rss.app/feeds/nF0z0htIiSicmtEI.xml
+2024-01-30 13:38:10 - No new posts found in the last 25 minutes.
+2024-01-30 13:38:10 - CHECKING url:https://rss.app/feeds/PCZj6SecAiczl008.xml
+2024-01-30 13:38:10 - No new posts found in the last 25 minutes.
+2024-01-30 13:38:10 - CHECKING url:https://rss.app/feeds/gQlzKnatnDocOeKr.xml
+2024-01-30 13:38:10 - No new posts found in the last 25 minutes.
+2024-01-30 13:38:10 - CHECKING url:https://rss.app/feeds/e8sadvIssZq4g7jE.xml
+2024-01-30 13:38:10 - No new posts found in the last 25 minutes.
+2024-01-30 13:38:11 - CHECKING url:https://rss.app/feeds/D0rdoyggUqo9sb8P.xml
+2024-01-30 13:38:11 - REPLYING to tweet:1752398284734222426
+2024-01-30 13:38:13 - SUCCESSFUL REPLY: 1752400841900745178
+2024-01-30 13:38:39 - CHECKING url:https://rss.app/feeds/14LxHDmmYlPARKsd.xml
+2024-01-30 13:38:39 - REPLYING to tweet:1752395157834473786
+2024-01-30 13:38:41 - SUCCESSFUL REPLY: 1752400957546111185
+2024-01-30 13:39:06 - CHECKING url:https://rss.app/feeds/g3SMp0L2gF7nygeF.xml
+2024-01-30 13:39:06 - No new posts found in the last 25 minutes.
+2024-01-30 13:39:06 - CHECKING url:https://rss.app/feeds/buuO3P4us5Z5vK7k.xml
+2024-01-30 13:39:06 - No new posts found in the last 25 minutes.
+2024-01-30 13:39:07 - CHECKING url:https://rss.app/feeds/vksuUddM1MNKu4X9.xml
+2024-01-30 13:39:07 - No new posts found in the last 25 minutes.
+2024-01-30 13:39:07 - CHECKING url:https://rss.app/feeds/ukk7rZTH4VMxByUk.xml
+2024-01-30 13:39:07 - No new posts found in the last 25 minutes.
+2024-01-30 13:39:07 - CHECKING url:https://rss.app/feeds/ekrmgWuZaXTNI2pA.xml
+2024-01-30 13:39:07 - No new posts found in the last 25 minutes.
+2024-01-30 13:39:07 - CHECKING url:https://rss.app/feeds/DivJ2iYw7KOcsGK6.xml
+2024-01-30 13:39:07 - No new posts found in the last 25 minutes.
+2024-01-30 13:39:07 - CHECKING url:https://rss.app/feeds/Sh6a8c7kumlSaOAc.xml
+2024-01-30 13:39:08 - REPLYING to tweet:1752397136849989822
+2024-01-30 13:39:11 - SUCCESSFUL REPLY: 1752401085334000016
+2024-01-30 13:39:36 - CHECKING url:https://rss.app/feeds/HkyNl9eeYDOrUBxr.xml
+2024-01-30 13:39:36 - No new posts found in the last 25 minutes.
+2024-01-30 13:39:36 - CHECKING url:https://rss.app/feeds/SfagktHZw5X11tlY.xml
+2024-01-30 13:39:36 - No new posts found in the last 25 minutes.
+2024-01-30 13:39:37 - CHECKING url:https://rss.app/feeds/ifLDZNGwTtgA57Wu.xml
+2024-01-30 13:39:37 - REPLYING to tweet:1752396006312882619
+2024-01-30 13:39:39 - SUCCESSFUL REPLY: 1752401200694100203
+2024-01-30 13:40:04 - CHECKING url:https://rss.app/feeds/1ElygOT0SPNp00TF.xml
+2024-01-30 13:40:04 - No new posts found in the last 25 minutes.
+2024-01-30 13:40:04 - CHECKING url:https://rss.app/feeds/ojZJT6ZJQFN2w7WS.xml
+2024-01-30 13:40:04 - No new posts found in the last 25 minutes.
+2024-01-30 13:40:04 - CHECKING url:https://rss.app/feeds/iqARUd9IHBFbuShi.xml
+2024-01-30 13:40:04 - No new posts found in the last 25 minutes.
+2024-01-30 13:40:04 - SLEEPING: for 25 min
+2024-01-30 14:05:05 - CHECKING url:https://rss.app/feeds/Z2bu6yODd2bf6YHz.xml
+2024-01-30 14:05:05 - No new posts found in the last 25 minutes.
+2024-01-30 14:05:05 - CHECKING url:https://rss.app/feeds/nF0z0htIiSicmtEI.xml
+2024-01-30 14:05:05 - No new posts found in the last 25 minutes.
+2024-01-30 14:05:05 - CHECKING url:https://rss.app/feeds/PCZj6SecAiczl008.xml
+2024-01-30 14:05:05 - No new posts found in the last 25 minutes.
+2024-01-30 14:05:05 - CHECKING url:https://rss.app/feeds/gQlzKnatnDocOeKr.xml
+2024-01-30 14:05:05 - REPLYING to tweet:1752402548303237155
+2024-01-30 14:05:08 - SUCCESSFUL REPLY: 1752407615915581894
+2024-01-30 14:05:34 - CHECKING url:https://rss.app/feeds/e8sadvIssZq4g7jE.xml
+2024-01-30 14:05:34 - No new posts found in the last 25 minutes.
+2024-01-30 14:05:34 - CHECKING url:https://rss.app/feeds/D0rdoyggUqo9sb8P.xml
+2024-01-30 14:05:34 - REPLYING to tweet:1752406601586102281
+2024-01-30 14:05:37 - SUCCESSFUL REPLY: 1752407736791314636
+2024-01-30 14:06:02 - CHECKING url:https://rss.app/feeds/14LxHDmmYlPARKsd.xml
+2024-01-30 14:06:02 - No new posts found in the last 25 minutes.
+2024-01-30 14:06:02 - CHECKING url:https://rss.app/feeds/g3SMp0L2gF7nygeF.xml
+2024-01-30 14:06:02 - REPLYING to tweet:1752402671112433758
+2024-01-30 14:06:04 - SUCCESSFUL REPLY: 1752407850603655553
+2024-01-30 14:06:29 - CHECKING url:https://rss.app/feeds/buuO3P4us5Z5vK7k.xml
+2024-01-30 14:06:29 - No new posts found in the last 25 minutes.
+2024-01-30 14:06:29 - CHECKING url:https://rss.app/feeds/vksuUddM1MNKu4X9.xml
+2024-01-30 14:06:29 - No new posts found in the last 25 minutes.
+2024-01-30 14:06:30 - CHECKING url:https://rss.app/feeds/ukk7rZTH4VMxByUk.xml
+2024-01-30 14:06:30 - No new posts found in the last 25 minutes.
+2024-01-30 14:06:30 - CHECKING url:https://rss.app/feeds/ekrmgWuZaXTNI2pA.xml
+2024-01-30 14:06:30 - No new posts found in the last 25 minutes.
+2024-01-30 14:06:30 - CHECKING url:https://rss.app/feeds/DivJ2iYw7KOcsGK6.xml
+2024-01-30 14:06:30 - REPLYING to tweet:1752403198701338716
+2024-01-30 14:06:32 - SUCCESSFUL REPLY: 1752407968933376145
+2024-01-30 14:06:58 - CHECKING url:https://rss.app/feeds/Sh6a8c7kumlSaOAc.xml
+2024-01-30 14:06:58 - No new posts found in the last 25 minutes.
+2024-01-30 14:06:58 - CHECKING url:https://rss.app/feeds/HkyNl9eeYDOrUBxr.xml
+2024-01-30 14:06:58 - No new posts found in the last 25 minutes.
+2024-01-30 14:06:58 - CHECKING url:https://rss.app/feeds/SfagktHZw5X11tlY.xml
+2024-01-30 14:06:58 - REPLYING to tweet:1752405503236550702
+2024-01-30 14:07:00 - SUCCESSFUL REPLY: 1752408086248132739
+2024-01-30 14:07:25 - CHECKING url:https://rss.app/feeds/ifLDZNGwTtgA57Wu.xml
+2024-01-30 14:07:25 - No new posts found in the last 25 minutes.
+2024-01-30 14:07:26 - CHECKING url:https://rss.app/feeds/1ElygOT0SPNp00TF.xml
+2024-01-30 14:07:26 - No new posts found in the last 25 minutes.
+2024-01-30 14:07:26 - CHECKING url:https://rss.app/feeds/ojZJT6ZJQFN2w7WS.xml
+2024-01-30 14:07:26 - No new posts found in the last 25 minutes.
+2024-01-30 14:07:26 - CHECKING url:https://rss.app/feeds/iqARUd9IHBFbuShi.xml
+2024-01-30 14:07:26 - REPLYING to tweet:1752406324611084750
+2024-01-30 14:07:28 - SUCCESSFUL REPLY: 1752408203902521607
+2024-01-30 14:07:53 - SLEEPING: for 25 min
+2024-01-30 14:32:53 - CHECKING url:https://rss.app/feeds/Z2bu6yODd2bf6YHz.xml
+2024-01-30 14:32:53 - No new posts found in the last 25 minutes.
+2024-01-30 14:32:54 - CHECKING url:https://rss.app/feeds/nF0z0htIiSicmtEI.xml
+2024-01-30 14:32:54 - No new posts found in the last 25 minutes.
+2024-01-30 14:32:54 - CHECKING url:https://rss.app/feeds/PCZj6SecAiczl008.xml
+2024-01-30 14:32:54 - No new posts found in the last 25 minutes.
+2024-01-30 14:32:54 - CHECKING url:https://rss.app/feeds/gQlzKnatnDocOeKr.xml
+2024-01-30 14:32:54 - No new posts found in the last 25 minutes.
+2024-01-30 14:32:54 - CHECKING url:https://rss.app/feeds/e8sadvIssZq4g7jE.xml
+2024-01-30 14:32:54 - No new posts found in the last 25 minutes.
+2024-01-30 14:32:55 - CHECKING url:https://rss.app/feeds/D0rdoyggUqo9sb8P.xml
+2024-01-30 14:32:55 - No new posts found in the last 25 minutes.
+2024-01-30 14:32:55 - CHECKING url:https://rss.app/feeds/14LxHDmmYlPARKsd.xml
+2024-01-30 14:32:55 - REPLYING to tweet:1752410752135159835
+2024-01-30 14:32:57 - SUCCESSFUL REPLY: 1752414616867508342
+2024-01-30 14:33:23 - CHECKING url:https://rss.app/feeds/g3SMp0L2gF7nygeF.xml
+2024-01-30 14:33:23 - REPLYING to tweet:1752409502291550366
+2024-01-30 14:33:25 - SUCCESSFUL REPLY: 1752414731921391665
+2024-01-30 14:33:50 - CHECKING url:https://rss.app/feeds/buuO3P4us5Z5vK7k.xml
+2024-01-30 14:33:50 - No new posts found in the last 25 minutes.
+2024-01-30 14:33:50 - CHECKING url:https://rss.app/feeds/vksuUddM1MNKu4X9.xml
+2024-01-30 14:33:50 - No new posts found in the last 25 minutes.
+2024-01-30 14:33:50 - CHECKING url:https://rss.app/feeds/ukk7rZTH4VMxByUk.xml
+2024-01-30 14:33:50 - No new posts found in the last 25 minutes.
+2024-01-30 14:33:51 - CHECKING url:https://rss.app/feeds/ekrmgWuZaXTNI2pA.xml
+2024-01-30 14:33:51 - REPLYING to tweet:1752410837405360171
+2024-01-30 14:33:53 - SUCCESSFUL REPLY: 1752414850146259216
+2024-01-30 14:34:18 - CHECKING url:https://rss.app/feeds/DivJ2iYw7KOcsGK6.xml
+2024-01-30 14:34:18 - No new posts found in the last 25 minutes.
+2024-01-30 14:34:18 - CHECKING url:https://rss.app/feeds/Sh6a8c7kumlSaOAc.xml
+2024-01-30 14:34:18 - REPLYING to tweet:1752410948793684232
+2024-01-30 14:34:21 - SUCCESSFUL REPLY: 1752414966647296108
+2024-01-30 14:34:46 - CHECKING url:https://rss.app/feeds/HkyNl9eeYDOrUBxr.xml
+2024-01-30 14:34:46 - No new posts found in the last 25 minutes.
+2024-01-30 14:34:46 - CHECKING url:https://rss.app/feeds/SfagktHZw5X11tlY.xml
+2024-01-30 14:34:46 - No new posts found in the last 25 minutes.
+2024-01-30 14:34:46 - CHECKING url:https://rss.app/feeds/ifLDZNGwTtgA57Wu.xml
+2024-01-30 14:34:46 - REPLYING to tweet:1752410398421143632
+2024-01-30 14:34:48 - SUCCESSFUL REPLY: 1752415081340502524
+2024-01-30 14:35:13 - CHECKING url:https://rss.app/feeds/1ElygOT0SPNp00TF.xml
+2024-01-30 14:35:13 - No new posts found in the last 25 minutes.
+2024-01-30 14:35:13 - CHECKING url:https://rss.app/feeds/ojZJT6ZJQFN2w7WS.xml
+2024-01-30 14:35:13 - No new posts found in the last 25 minutes.
+2024-01-30 14:35:14 - CHECKING url:https://rss.app/feeds/iqARUd9IHBFbuShi.xml
+2024-01-30 14:35:14 - No new posts found in the last 25 minutes.
+2024-01-30 14:35:14 - SLEEPING: for 25 min
+2024-01-30 15:00:14 - CHECKING url:https://rss.app/feeds/Z2bu6yODd2bf6YHz.xml
+2024-01-30 15:00:14 - No new posts found in the last 25 minutes.
+2024-01-30 15:00:14 - CHECKING url:https://rss.app/feeds/nF0z0htIiSicmtEI.xml
+2024-01-30 15:00:14 - No new posts found in the last 25 minutes.
+2024-01-30 15:00:14 - CHECKING url:https://rss.app/feeds/PCZj6SecAiczl008.xml
+2024-01-30 15:00:14 - No new posts found in the last 25 minutes.
+2024-01-30 15:00:15 - CHECKING url:https://rss.app/feeds/gQlzKnatnDocOeKr.xml
+2024-01-30 15:00:15 - No new posts found in the last 25 minutes.
+2024-01-30 15:00:15 - CHECKING url:https://rss.app/feeds/e8sadvIssZq4g7jE.xml
+2024-01-30 15:00:15 - No new posts found in the last 25 minutes.
+2024-01-30 15:00:15 - CHECKING url:https://rss.app/feeds/D0rdoyggUqo9sb8P.xml
+2024-01-30 15:00:15 - No new posts found in the last 25 minutes.
+2024-01-30 15:00:15 - CHECKING url:https://rss.app/feeds/14LxHDmmYlPARKsd.xml
+2024-01-30 15:00:15 - No new posts found in the last 25 minutes.
+2024-01-30 15:00:16 - CHECKING url:https://rss.app/feeds/g3SMp0L2gF7nygeF.xml
+2024-01-30 15:00:16 - No new posts found in the last 25 minutes.
+2024-01-30 15:00:16 - CHECKING url:https://rss.app/feeds/buuO3P4us5Z5vK7k.xml
+2024-01-30 15:00:16 - No new posts found in the last 25 minutes.
+2024-01-30 15:00:16 - CHECKING url:https://rss.app/feeds/vksuUddM1MNKu4X9.xml
+2024-01-30 15:00:16 - REPLYING to tweet:1752417411796521362
+2024-01-30 15:00:19 - SUCCESSFUL REPLY: 1752421502668939351
+2024-01-30 15:00:44 - CHECKING url:https://rss.app/feeds/ukk7rZTH4VMxByUk.xml
+2024-01-30 15:00:44 - No new posts found in the last 25 minutes.
+2024-01-30 15:00:44 - CHECKING url:https://rss.app/feeds/ekrmgWuZaXTNI2pA.xml
+2024-01-30 15:00:44 - No new posts found in the last 25 minutes.
+2024-01-30 15:00:44 - CHECKING url:https://rss.app/feeds/DivJ2iYw7KOcsGK6.xml
+2024-01-30 15:00:44 - No new posts found in the last 25 minutes.
+2024-01-30 15:00:45 - CHECKING url:https://rss.app/feeds/Sh6a8c7kumlSaOAc.xml
+2024-01-30 15:00:45 - REPLYING to tweet:1752416860593938684
+2024-01-30 15:00:48 - SUCCESSFUL REPLY: 1752421622902907373
+2024-01-30 15:01:13 - CHECKING url:https://rss.app/feeds/HkyNl9eeYDOrUBxr.xml
+2024-01-30 15:01:13 - REPLYING to tweet:1752418425102565812
+2024-01-30 15:01:15 - SUCCESSFUL REPLY: 1752421737130561605
+2024-01-30 15:01:40 - CHECKING url:https://rss.app/feeds/SfagktHZw5X11tlY.xml
+2024-01-30 15:01:40 - No new posts found in the last 25 minutes.
+2024-01-30 15:01:40 - CHECKING url:https://rss.app/feeds/ifLDZNGwTtgA57Wu.xml
+2024-01-30 15:01:40 - No new posts found in the last 25 minutes.
+2024-01-30 15:01:40 - CHECKING url:https://rss.app/feeds/1ElygOT0SPNp00TF.xml
+2024-01-30 15:01:40 - No new posts found in the last 25 minutes.
+2024-01-30 15:01:41 - CHECKING url:https://rss.app/feeds/ojZJT6ZJQFN2w7WS.xml
+2024-01-30 15:01:41 - No new posts found in the last 25 minutes.
+2024-01-30 15:01:41 - CHECKING url:https://rss.app/feeds/iqARUd9IHBFbuShi.xml
+2024-01-30 15:01:41 - No new posts found in the last 25 minutes.
+2024-01-30 15:01:41 - SLEEPING: for 25 min
+2024-01-30 15:26:41 - CHECKING url:https://rss.app/feeds/Z2bu6yODd2bf6YHz.xml
+2024-01-30 15:26:41 - No new posts found in the last 25 minutes.
+2024-01-30 15:26:41 - CHECKING url:https://rss.app/feeds/nF0z0htIiSicmtEI.xml
+2024-01-30 15:26:41 - No new posts found in the last 25 minutes.
+2024-01-30 15:26:42 - CHECKING url:https://rss.app/feeds/PCZj6SecAiczl008.xml
+2024-01-30 15:26:42 - No new posts found in the last 25 minutes.
+2024-01-30 15:26:42 - CHECKING url:https://rss.app/feeds/gQlzKnatnDocOeKr.xml
+2024-01-30 15:26:42 - No new posts found in the last 25 minutes.
+2024-01-30 15:26:42 - CHECKING url:https://rss.app/feeds/e8sadvIssZq4g7jE.xml
+2024-01-30 15:26:42 - No new posts found in the last 25 minutes.
+2024-01-30 15:26:42 - CHECKING url:https://rss.app/feeds/D0rdoyggUqo9sb8P.xml
+2024-01-30 15:26:42 - REPLYING to tweet:1752425719001477577
+2024-01-30 15:26:45 - SUCCESSFUL REPLY: 1752428153597768031
+2024-01-30 15:27:10 - CHECKING url:https://rss.app/feeds/14LxHDmmYlPARKsd.xml
+2024-01-30 15:27:10 - REPLYING to tweet:1752423830763479492
+2024-01-30 15:27:13 - SUCCESSFUL REPLY: 1752428270476279869
+2024-01-30 15:27:38 - CHECKING url:https://rss.app/feeds/g3SMp0L2gF7nygeF.xml
+2024-01-30 15:27:38 - No new posts found in the last 25 minutes.
+2024-01-30 15:27:38 - CHECKING url:https://rss.app/feeds/buuO3P4us5Z5vK7k.xml
+2024-01-30 15:27:38 - REPLYING to tweet:1752423142344040933
+2024-01-30 15:27:40 - SUCCESSFUL REPLY: 1752428386654322691
+2024-01-30 15:28:05 - CHECKING url:https://rss.app/feeds/vksuUddM1MNKu4X9.xml
+2024-01-30 15:28:05 - No new posts found in the last 25 minutes.
+2024-01-30 15:28:06 - CHECKING url:https://rss.app/feeds/ukk7rZTH4VMxByUk.xml
+2024-01-30 15:28:06 - No new posts found in the last 25 minutes.
+2024-01-30 15:28:06 - CHECKING url:https://rss.app/feeds/ekrmgWuZaXTNI2pA.xml
+2024-01-30 15:28:06 - No new posts found in the last 25 minutes.
+2024-01-30 15:28:06 - CHECKING url:https://rss.app/feeds/DivJ2iYw7KOcsGK6.xml
+2024-01-30 15:28:06 - No new posts found in the last 25 minutes.
+2024-01-30 15:28:06 - CHECKING url:https://rss.app/feeds/Sh6a8c7kumlSaOAc.xml
+2024-01-30 15:28:06 - REPLYING to tweet:1752423459521503371
+2024-01-30 15:28:09 - SUCCESSFUL REPLY: 1752428505919320542
+2024-01-30 15:28:34 - CHECKING url:https://rss.app/feeds/HkyNl9eeYDOrUBxr.xml
+2024-01-30 15:28:34 - No new posts found in the last 25 minutes.
+2024-01-30 15:28:34 - CHECKING url:https://rss.app/feeds/SfagktHZw5X11tlY.xml
+2024-01-30 15:28:34 - No new posts found in the last 25 minutes.
+2024-01-30 15:28:34 - CHECKING url:https://rss.app/feeds/ifLDZNGwTtgA57Wu.xml
+2024-01-30 15:28:34 - No new posts found in the last 25 minutes.
+2024-01-30 15:28:35 - CHECKING url:https://rss.app/feeds/1ElygOT0SPNp00TF.xml
+2024-01-30 15:28:35 - No new posts found in the last 25 minutes.
+2024-01-30 15:28:35 - CHECKING url:https://rss.app/feeds/ojZJT6ZJQFN2w7WS.xml
+2024-01-30 15:28:35 - No new posts found in the last 25 minutes.
+2024-01-30 15:28:35 - CHECKING url:https://rss.app/feeds/iqARUd9IHBFbuShi.xml
+2024-01-30 15:28:35 - No new posts found in the last 25 minutes.
+2024-01-30 15:28:35 - SLEEPING: for 25 min
+2024-01-30 15:53:36 - CHECKING url:https://rss.app/feeds/Z2bu6yODd2bf6YHz.xml
+2024-01-30 15:53:36 - No new posts found in the last 25 minutes.
+2024-01-30 15:53:36 - CHECKING url:https://rss.app/feeds/nF0z0htIiSicmtEI.xml
+2024-01-30 15:53:36 - No new posts found in the last 25 minutes.
+2024-01-30 15:53:36 - CHECKING url:https://rss.app/feeds/PCZj6SecAiczl008.xml
+2024-01-30 15:53:36 - No new posts found in the last 25 minutes.
+2024-01-30 15:53:36 - CHECKING url:https://rss.app/feeds/gQlzKnatnDocOeKr.xml
+2024-01-30 15:53:36 - No new posts found in the last 25 minutes.
+2024-01-30 15:53:37 - CHECKING url:https://rss.app/feeds/e8sadvIssZq4g7jE.xml
+2024-01-30 15:53:37 - No new posts found in the last 25 minutes.
+2024-01-30 15:53:37 - CHECKING url:https://rss.app/feeds/D0rdoyggUqo9sb8P.xml
+2024-01-30 15:53:37 - REPLYING to tweet:1752429738285474159
+2024-01-30 15:53:39 - SUCCESSFUL REPLY: 1752434925263839399
+2024-01-30 15:54:04 - CHECKING url:https://rss.app/feeds/14LxHDmmYlPARKsd.xml
+2024-01-30 15:54:04 - No new posts found in the last 25 minutes.
+2024-01-30 15:54:05 - CHECKING url:https://rss.app/feeds/g3SMp0L2gF7nygeF.xml
+2024-01-30 15:54:05 - No new posts found in the last 25 minutes.
+2024-01-30 15:54:05 - CHECKING url:https://rss.app/feeds/buuO3P4us5Z5vK7k.xml
+2024-01-30 15:54:05 - No new posts found in the last 25 minutes.
+2024-01-30 15:54:05 - CHECKING url:https://rss.app/feeds/vksuUddM1MNKu4X9.xml
+2024-01-30 15:54:05 - No new posts found in the last 25 minutes.
+2024-01-30 15:54:05 - CHECKING url:https://rss.app/feeds/ukk7rZTH4VMxByUk.xml
+2024-01-30 15:54:05 - No new posts found in the last 25 minutes.
+2024-01-30 15:54:05 - CHECKING url:https://rss.app/feeds/ekrmgWuZaXTNI2pA.xml
+2024-01-30 15:54:05 - No new posts found in the last 25 minutes.
+2024-01-30 15:54:06 - CHECKING url:https://rss.app/feeds/DivJ2iYw7KOcsGK6.xml
+2024-01-30 15:54:06 - No new posts found in the last 25 minutes.
+2024-01-30 15:54:06 - CHECKING url:https://rss.app/feeds/Sh6a8c7kumlSaOAc.xml
+2024-01-30 15:54:06 - REPLYING to tweet:1752432470556131686
+2024-01-30 15:54:08 - SUCCESSFUL REPLY: 1752435047452287198
+2024-01-30 15:54:34 - CHECKING url:https://rss.app/feeds/HkyNl9eeYDOrUBxr.xml
+2024-01-30 15:54:34 - No new posts found in the last 25 minutes.
+2024-01-30 15:54:34 - CHECKING url:https://rss.app/feeds/SfagktHZw5X11tlY.xml
+2024-01-30 15:54:34 - No new posts found in the last 25 minutes.
+2024-01-30 15:54:34 - CHECKING url:https://rss.app/feeds/ifLDZNGwTtgA57Wu.xml
+2024-01-30 15:54:34 - No new posts found in the last 25 minutes.
+2024-01-30 15:54:34 - CHECKING url:https://rss.app/feeds/1ElygOT0SPNp00TF.xml
+2024-01-30 15:54:34 - No new posts found in the last 25 minutes.
+2024-01-30 15:54:34 - CHECKING url:https://rss.app/feeds/ojZJT6ZJQFN2w7WS.xml
+2024-01-30 15:54:34 - No new posts found in the last 25 minutes.
+2024-01-30 15:54:34 - CHECKING url:https://rss.app/feeds/iqARUd9IHBFbuShi.xml
+2024-01-30 15:54:34 - No new posts found in the last 25 minutes.
+2024-01-30 15:54:34 - SLEEPING: for 25 min
+2024-01-30 16:19:35 - CHECKING url:https://rss.app/feeds/Z2bu6yODd2bf6YHz.xml
+2024-01-30 16:19:35 - No new posts found in the last 25 minutes.
+2024-01-30 16:19:35 - CHECKING url:https://rss.app/feeds/nF0z0htIiSicmtEI.xml
+2024-01-30 16:19:35 - No new posts found in the last 25 minutes.
+2024-01-30 16:19:35 - CHECKING url:https://rss.app/feeds/PCZj6SecAiczl008.xml
+2024-01-30 16:19:35 - No new posts found in the last 25 minutes.
+2024-01-30 16:19:35 - CHECKING url:https://rss.app/feeds/gQlzKnatnDocOeKr.xml
+2024-01-30 16:19:35 - No new posts found in the last 25 minutes.
+2024-01-30 16:19:36 - CHECKING url:https://rss.app/feeds/e8sadvIssZq4g7jE.xml
+2024-01-30 16:19:36 - No new posts found in the last 25 minutes.
+2024-01-30 16:19:36 - CHECKING url:https://rss.app/feeds/D0rdoyggUqo9sb8P.xml
+2024-01-30 16:19:36 - REPLYING to tweet:1752440329427443801
+2024-01-30 16:19:38 - SUCCESSFUL REPLY: 1752441464963965001
+2024-01-30 16:20:04 - CHECKING url:https://rss.app/feeds/14LxHDmmYlPARKsd.xml
+2024-01-30 16:20:04 - No new posts found in the last 25 minutes.
+2024-01-30 16:20:04 - CHECKING url:https://rss.app/feeds/g3SMp0L2gF7nygeF.xml
+2024-01-30 16:20:04 - No new posts found in the last 25 minutes.
+2024-01-30 16:20:04 - CHECKING url:https://rss.app/feeds/buuO3P4us5Z5vK7k.xml
+2024-01-30 16:20:04 - No new posts found in the last 25 minutes.
+2024-01-30 16:20:04 - CHECKING url:https://rss.app/feeds/vksuUddM1MNKu4X9.xml
+2024-01-30 16:20:04 - No new posts found in the last 25 minutes.
+2024-01-30 16:20:05 - CHECKING url:https://rss.app/feeds/ukk7rZTH4VMxByUk.xml
+2024-01-30 16:20:05 - No new posts found in the last 25 minutes.
+2024-01-30 16:20:05 - CHECKING url:https://rss.app/feeds/ekrmgWuZaXTNI2pA.xml
+2024-01-30 16:20:05 - No new posts found in the last 25 minutes.
+2024-01-30 16:20:05 - CHECKING url:https://rss.app/feeds/DivJ2iYw7KOcsGK6.xml
+2024-01-30 16:20:05 - No new posts found in the last 25 minutes.
+2024-01-30 16:20:06 - CHECKING url:https://rss.app/feeds/Sh6a8c7kumlSaOAc.xml
+2024-01-30 16:20:06 - REPLYING to tweet:1752437148836307196
+2024-01-30 16:20:08 - SUCCESSFUL REPLY: 1752441590600073232
+2024-01-30 16:20:34 - CHECKING url:https://rss.app/feeds/HkyNl9eeYDOrUBxr.xml
+2024-01-30 16:20:34 - No new posts found in the last 25 minutes.
+2024-01-30 16:20:34 - CHECKING url:https://rss.app/feeds/SfagktHZw5X11tlY.xml
+2024-01-30 16:20:34 - No new posts found in the last 25 minutes.
+2024-01-30 16:20:34 - CHECKING url:https://rss.app/feeds/ifLDZNGwTtgA57Wu.xml
+2024-01-30 16:20:34 - No new posts found in the last 25 minutes.
+2024-01-30 16:20:34 - CHECKING url:https://rss.app/feeds/1ElygOT0SPNp00TF.xml
+2024-01-30 16:20:34 - No new posts found in the last 25 minutes.
+2024-01-30 16:20:35 - CHECKING url:https://rss.app/feeds/ojZJT6ZJQFN2w7WS.xml
+2024-01-30 16:20:35 - No new posts found in the last 25 minutes.
+2024-01-30 16:20:35 - CHECKING url:https://rss.app/feeds/iqARUd9IHBFbuShi.xml
+2024-01-30 16:20:35 - REPLYING to tweet:1752436529220468804
+2024-01-30 16:20:38 - SUCCESSFUL REPLY: 1752441713816146037
+2024-01-30 16:21:03 - SLEEPING: for 25 min
+2024-01-30 16:46:03 - CHECKING url:https://rss.app/feeds/Z2bu6yODd2bf6YHz.xml
+2024-01-30 16:46:03 - No new posts found in the last 25 minutes.
+2024-01-30 16:46:03 - CHECKING url:https://rss.app/feeds/nF0z0htIiSicmtEI.xml
+2024-01-30 16:46:03 - No new posts found in the last 25 minutes.
+2024-01-30 16:46:03 - CHECKING url:https://rss.app/feeds/PCZj6SecAiczl008.xml
+2024-01-30 16:46:03 - No new posts found in the last 25 minutes.
+2024-01-30 16:46:04 - CHECKING url:https://rss.app/feeds/gQlzKnatnDocOeKr.xml
+2024-01-30 16:46:04 - No new posts found in the last 25 minutes.
+2024-01-30 16:46:04 - CHECKING url:https://rss.app/feeds/e8sadvIssZq4g7jE.xml
+2024-01-30 16:46:04 - No new posts found in the last 25 minutes.
+2024-01-30 16:46:04 - CHECKING url:https://rss.app/feeds/D0rdoyggUqo9sb8P.xml
+2024-01-30 16:46:04 - REPLYING to tweet:1752442841077362741
+2024-01-30 16:46:06 - SUCCESSFUL REPLY: 1752448124478451977
+2024-01-30 16:46:31 - CHECKING url:https://rss.app/feeds/14LxHDmmYlPARKsd.xml
+2024-01-30 16:46:31 - No new posts found in the last 25 minutes.
+2024-01-30 16:46:32 - CHECKING url:https://rss.app/feeds/g3SMp0L2gF7nygeF.xml
+2024-01-30 16:46:32 - REPLYING to tweet:1752442945016578343
+2024-01-30 16:46:33 - ERROR >>> BREAKING: Error posting tweet: 429 Too Many Requests
+Too Many Requests

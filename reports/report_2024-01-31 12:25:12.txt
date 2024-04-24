@@ -1,0 +1,44 @@
+Report of Successful Tweets
+Total Successful Posts: 5
+Total bot runs: 2
+Avg Posts per Run: 2.5
+# Replies Frequency per URL # 
+https://rss.app/feeds/HkyNl9eeYDOrUBxr.xml : 1
+https://rss.app/feeds/X1ZZIDgoJsCCd1pf.xml : 1
+https://rss.app/feeds/GpMvwB5mw13I4hH2.xml : 1
+https://rss.app/feeds/I9YtRS6U9dZUMwBW.xml : 1
+https://rss.app/feeds/Sh6a8c7kumlSaOAc.xml : 1
+ # --------------------------------- # 
+Replied to Tweet ID: 1752742195168206975
+tweet:@thepophive: The Eras Tour will resume in precisely one week in Tokyo, Japan.
+link:https://twitter.com/thepophive/status/1752742195168206975
+timestamp:2024-01-31 17:14:38+00:00
+reply:Exciting news! The anticipation for the Eras Tour to resume is monumental. Tokyo, prepare for a one-of-a-kind experience. Enjoy the show!
+--------------------------------
+Replied to Tweet ID: 1752742222368210947
+tweet:@chartdata: 'Norman F*cking Rockwell!' becomes Lana Del Rey's third @RIAA Platinum album in the US and first since 'Ultraviolence'.
+link:https://twitter.com/chartdata/status/1752742222368210947
+timestamp:2024-01-31 17:14:44+00:00
+reply:Fantastic achievement! 'Norman F*cking Rockwell!' clearly resonates with listeners. It's awesome to see Lana Del Rey's distinctive style rewarded with Platinum status again.
+--------------------------------
+Replied to Tweet ID: 1752741546984706399
+tweet:@PopBase: ‘Found Heaven’ by Conan Gray consists of 13 tracks, according to Amazon Music.
+link:https://twitter.com/PopBase/status/1752741546984706399
+timestamp:2024-01-31 17:12:03+00:00
+reply:Exciting news for Conan Gray fans! Cannot wait to hear all 13 tracks of 'Found Heaven'. Hope it's as good as his previous work!
+--------------------------------
+Replied to Tweet ID: 1752739517516149071
+tweet:@historyrock_: Jimmy Page (79 years) and his girlfriend Writer Scarlett Sabet (34 years). 
+
+Already more than 9 years of a stable relationship.
+#LedZeppelin
+link:https://twitter.com/historyrock_/status/1752739517516149071
+timestamp:2024-01-31 17:03:59+00:00
+reply:Age is just a number when it comes to love. It's impressive to see Jimmy Page and Scarlett Sabet going strong for over 9 years. True testament of love transcending all boundaries!
+--------------------------------
+Replied to Tweet ID: 1752749620457783638
+tweet:@FilmUpdates: ‘ARGYLLE’ debuts with 39% on Rotten Tomatoes from 46 reviews.
+link:https://twitter.com/FilmUpdates/status/1752749620457783638
+timestamp:2024-01-31 17:44:08+00:00
+reply:'Seems like ARGYLLE is off to a rocky start according to Rotten Tomatoes. But, take ratings with a grain of salt! Better to watch and form your own opinion. Happy viewing!
+--------------------------------

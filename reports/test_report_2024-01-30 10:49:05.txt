@@ -1,0 +1,35 @@
+Report of Successful Tweets
+Total Successful Posts: 4
+Total bot runs: 2
+Avg Posts per Run: 2.0
+ # Replies Frequency per URL # 
+ https://rss.app/feeds/D0rdoyggUqo9sb8P.xml : 1
+ https://rss.app/feeds/Sh6a8c7kumlSaOAc.xml : 2
+ https://rss.app/feeds/iqARUd9IHBFbuShi.xml : 1
+ # --------------------------------- # 
+Replied to Tweet ID: 1752357784874627095
+tweet:@billboard: Best Moments & Exclusive Photos From iHeartRadio ALTer EGO 2024
+link:https://twitter.com/billboard/status/1752357784874627095
+timestamp:2024-01-30 15:47:07+00:00
+reply:A dummy reply for testing
+--------------------------------
+Replied to Tweet ID: 1752356783845482581
+tweet:@FilmUpdates: Happy 50th birthday to Christian Bale!
+link:https://twitter.com/FilmUpdates/status/1752356783845482581
+timestamp:2024-01-30 15:43:09+00:00
+reply:A dummy reply for testing
+--------------------------------
+Replied to Tweet ID: 1752362021557829667
+tweet:@FilmUpdates: New look at Nicholas Galitzine and Anne Hathaway in ‘THE IDEA OF YOU.’
+
+Premiering at SXSW on March 16, streaming on Prime Video on May 2.
+link:https://twitter.com/FilmUpdates/status/1752362021557829667
+timestamp:2024-01-30 16:03:57+00:00
+reply:A dummy reply for testing
+--------------------------------
+Replied to Tweet ID: 1752361024538505613
+tweet:@ATRightMovies: MARTIN SHORT & STEVE MARTIN at the Bowfinger prèmiere in 1999.
+link:https://twitter.com/ATRightMovies/status/1752361024538505613
+timestamp:2024-01-30 16:00:00+00:00
+reply:A dummy reply for testing
+--------------------------------

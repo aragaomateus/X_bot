@@ -1,0 +1,5 @@
+Report of Successful Tweets
+Total Successful Posts: 6
+Total bot runs: 1
+Avg Posts per Run: 6.0
+ # Replies Frequency per URL # 

@@ -1,0 +1,17 @@
+2024-01-29 18:46:48 - ------RUN: 2024-01-29 18:46:48-----
+2024-01-29 18:46:49 - CHECKING url:https://rss.app/feeds/Z2bu6yODd2bf6YHz.xml
+2024-01-29 18:46:49 - No new posts found in the last 25 minutes.
+2024-01-29 18:46:49 - CHECKING url: https://rss.app/feeds/Z6yIdor0OfKjs3Ao.xml
+2024-01-29 18:46:49 - No new posts found in the last 25 minutes.
+2024-01-29 18:46:49 - CHECKING url:https://rss.app/feeds/PCZj6SecAiczl008.xml
+2024-01-29 18:46:49 - No new posts found in the last 25 minutes.
+2024-01-29 18:46:49 - CHECKING url:https://rss.app/feeds/gQlzKnatnDocOeKr.xml
+2024-01-29 18:46:49 - No new posts found in the last 25 minutes.
+2024-01-29 18:46:50 - CHECKING url:https://rss.app/feeds/e8sadvIssZq4g7jE.xml
+2024-01-29 18:46:50 - No new posts found in the last 25 minutes.
+2024-01-29 18:46:50 - CHECKING url:https://rss.app/feeds/D0rdoyggUqo9sb8P.xml
+2024-01-29 18:46:50 - No new posts found in the last 25 minutes.
+2024-01-29 18:46:50 - CHECKING url:https://rss.app/feeds/x7BWzgVLRCHGgI6I.xml
+2024-01-29 18:46:50 - REPLYING to tweet:1752110843486171388
+2024-01-29 18:46:53 - ERROR >>> BREAKING: Error posting tweet: 429 Too Many Requests
+Too Many Requests

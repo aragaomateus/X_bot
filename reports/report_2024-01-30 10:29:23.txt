@@ -1,0 +1,10 @@
+Report of Successful Tweets
+Total Successful Posts: 5
+Total bot runs: 1
+Avg Posts per Run: 5.0
+ # Replies Frequency per URL #  https://rss.app/feeds/buuO3P4us5Z5vK7k.xml : 1
+ https://rss.app/feeds/Sh6a8c7kumlSaOAc.xml : 1
+ # --------------------------------- # Replied to Tweet ID: 1752347458909225224
+tweet:@AboutMusicYT: TWICE releases a music video teaser for 'I Got You'.
+link:https://twitter.com/AboutMusicYT/status/1752347458909225224
+timestamp:2024-01-30 15:06:05+00:00

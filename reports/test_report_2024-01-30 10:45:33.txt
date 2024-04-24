@@ -1,0 +1,18 @@
+Report of Successful Tweets
+Total Successful Posts: 2
+Total bot runs: 1
+Avg Posts per Run: 2.0
+ # Replies Frequency per URL #  https://rss.app/feeds/D0rdoyggUqo9sb8P.xml : 1
+ https://rss.app/feeds/Sh6a8c7kumlSaOAc.xml : 1
+ # --------------------------------- # Replied to Tweet ID: 1752353743180358107
+tweet:@billboard: Forever No. 1: Melanie’s ‘Brand New Key’
+link:https://twitter.com/billboard/status/1752353743180358107
+timestamp:2024-01-30 15:31:04+00:00
+reply:A dummy reply for testing
+--------------------------------
+Replied to Tweet ID: 1752356783845482581
+tweet:@FilmUpdates: Happy 50th birthday to Christian Bale!
+link:https://twitter.com/FilmUpdates/status/1752356783845482581
+timestamp:2024-01-30 15:43:09+00:00
+reply:A dummy reply for testing
+--------------------------------

@@ -1,0 +1,261 @@
+Report of Successful Tweets
+Total Successful Posts: 37
+Total bot runs: 12
+Avg Posts per Run: 3.0833333333333335
+# Replies Frequency per URL # 
+https://rss.app/feeds/SfagktHZw5X11tlY.xml : 3
+https://rss.app/feeds/iqARUd9IHBFbuShi.xml : 4
+https://rss.app/feeds/D0rdoyggUqo9sb8P.xml : 8
+https://rss.app/feeds/buuO3P4us5Z5vK7k.xml : 2
+https://rss.app/feeds/g3SMp0L2gF7nygeF.xml : 3
+https://rss.app/feeds/14LxHDmmYlPARKsd.xml : 3
+https://rss.app/feeds/Sh6a8c7kumlSaOAc.xml : 6
+https://rss.app/feeds/ifLDZNGwTtgA57Wu.xml : 2
+https://rss.app/feeds/gQlzKnatnDocOeKr.xml : 1
+https://rss.app/feeds/DivJ2iYw7KOcsGK6.xml : 1
+https://rss.app/feeds/ekrmgWuZaXTNI2pA.xml : 1
+https://rss.app/feeds/vksuUddM1MNKu4X9.xml : 1
+https://rss.app/feeds/HkyNl9eeYDOrUBxr.xml : 1
+ # --------------------------------- # 
+Replied to Tweet ID: 1752372811530645847
+tweet:@RobertPlant: RT by @UltClassicRock: To my dear friend who gave me so much help at the beginning of life after John Bonham. I send love and birthday wishes..
+-…
+link:https://twitter.com/UltClassicRock/status/1752372811530645847
+timestamp:2024-01-30 16:46:50+00:00
+reply:Your friendship is truly inspiring and your support for each other in trying times speaks volumes about the bond you share. May the birthday be filled with love, laughter and music. Here's to many more!
+--------------------------------
+Replied to Tweet ID: 1752376129045107057
+tweet:@ATRightMovies: Alfred Molina tells a great story about working on RAIDERS OF THE LOST ARK.
+link:https://twitter.com/ATRightMovies/status/1752376129045107057
+timestamp:2024-01-30 17:00:01+00:00
+reply:Alfred Molina's storytelling is indeed captivating! His experiences on Raiders of The Lost Ark must have been nothing short of astounding. Would love to hear more of his behind-the-scenes tales!
+--------------------------------
+Replied to Tweet ID: 1752384104127926661
+tweet:@billboard: Women Are Gaining Ground Across Music Creation, New Study Finds
+link:https://twitter.com/billboard/status/1752384104127926661
+timestamp:2024-01-30 17:31:42+00:00
+reply:Great news! It's uplifting to see progress towards inclusivity in music creation. All voices deserve to be heard and celebrated for their creativity.
+--------------------------------
+Replied to Tweet ID: 1752381772468293721
+tweet:@historyrock_: RT by @historyrock_: U2 performing 'Bad' at Live Aid in front of 72,000 people in Wembley Stadium, London on the 13th July, 1985.
+#U2 https://…
+link:https://twitter.com/historyrock_/status/1752381772468293721
+timestamp:2024-01-30 17:22:26+00:00
+reply:What a groundbreaking concert that was! U2's performance of 'Bad' at Live Aid truly showcased their charisma and talent. A moment in music history never to be forgotten.
+--------------------------------
+Replied to Tweet ID: 1752391796410183992
+tweet:@billboard: A Timeline of Taylor Swift & Travis Kelce’s Relationship
+link:https://twitter.com/billboard/status/1752391796410183992
+timestamp:2024-01-30 18:02:16+00:00
+reply:Wow, this timeline really tracks the journey of Taylor Swift & Travis Kelce's unexpected romance. It's fascinating how music and sports intersect like this. Love looking at how their relationship evolved over time!
+--------------------------------
+Replied to Tweet ID: 1752392758449566005
+tweet:@PopBase: In honor of its 25th anniversary, what is your favorite Family Guy moment?
+link:https://twitter.com/PopBase/status/1752392758449566005
+timestamp:2024-01-30 18:06:06+00:00
+reply:Happy 25th to Family Guy! My all-time favorite moment has to be Peter's dramatic fight with the Giant Chicken. Comedy gold every time.
+--------------------------------
+Replied to Tweet ID: 1752391226521964760
+tweet:@UltClassicRock: .@PaulStanleyLive talks @kiss's first few LPs...
+link:https://twitter.com/UltClassicRock/status/1752391226521964760
+timestamp:2024-01-30 18:00:00+00:00
+reply:It's always intriguing to hear the backstory of KISS's early LPs! Paul Stanley sure has a knack for storytelling, making the music even more enjoyable. Looking forward to more insider information!
+--------------------------------
+Replied to Tweet ID: 1752391228061294805
+tweet:@ATRightMovies: Dan Aykroyd and Bill Murray on the The Tonight Show promoting GHOSTBUSTERS (1984).
+link:https://twitter.com/ATRightMovies/status/1752391228061294805
+timestamp:2024-01-30 18:00:01+00:00
+reply:Two legends on the same stage promoting an unforgettable classic: GHOSTBUSTERS. Miss the good old days of Aykroyd and Murray's banter. Love to see their camaraderie again soon!
+--------------------------------
+Replied to Tweet ID: 1752398284734222426
+tweet:@billboard: Lenny Kravitz to Receive 2024 Global Impact Award at Recording Academy Honors Presented by the Black Music Collective
+link:https://twitter.com/billboard/status/1752398284734222426
+timestamp:2024-01-30 18:28:03+00:00
+reply:Congratulations to Lenny Kravitz on this well-deserved recognition! His influence has truly been global, and his music continues to inspire. A fitting honor for a music legend.
+--------------------------------
+Replied to Tweet ID: 1752395157834473786
+tweet:@chartdata: Megan Thee Stallion's "HISS" reaches a new peak of #22 on the global Spotify chart with a new daily high of 2.681 million streams, up 32 spots.
+link:https://twitter.com/chartdata/status/1752395157834473786
+timestamp:2024-01-30 18:15:38+00:00
+reply:Incredible achievement! The rise in rank and daily streams truly demonstrates the power of Megan Thee Stallion's 'HISS'. Looking forward to more chart-breaking records.
+--------------------------------
+Replied to Tweet ID: 1752397136849989822
+tweet:@FilmUpdates: Lamorne Morris joins the cast of Jason Reitman’s ‘SNL 1975’ starring Gabriel LaBelle, Cooper Hoffman, Rachel Sennott, Dylan O’Brien and Cory Michael Smith.
+
+The film is based on the real-life behind the scenes accounts of the opening night of Saturday Night Live.
+link:https://twitter.com/FilmUpdates/status/1752397136849989822
+timestamp:2024-01-30 18:23:30+00:00
+reply:Fantastic news! Lamorne Morris is a stellar talent, and this ensemble cast is shaping up to be class-act. Eagerly awaiting to see their take on the iconic Saturday Night Live opening night.
+--------------------------------
+Replied to Tweet ID: 1752396006312882619
+tweet:@PopCrave: Jenna Ortega will be featured in Dorito’s Super Bowl ad.
+link:https://twitter.com/PopCrave/status/1752396006312882619
+timestamp:2024-01-30 18:19:00+00:00
+reply:That's super exciting news! Jenna Ortega in a Super Bowl ad will surely be entertaining. Can't wait to see the Dorito's commercial!
+--------------------------------
+Replied to Tweet ID: 1752402548303237155
+tweet:@MTV: My limit of loving @JLo just doesn’t exist – especially with “Can’t Get Enough” feat. @Latto ♥️♥️
+link:https://twitter.com/MTV/status/1752402548303237155
+timestamp:2024-01-30 18:45:00+00:00
+reply:"Can't Get Enough" truly boasts JLo's talent in a brilliant way. Her potential and charisma know no boundaries. Latto's feature only enhances the addictive allure of the track. Totally in sync with your limitless love!
+--------------------------------
+Replied to Tweet ID: 1752406601586102281
+tweet:@billboard: UK Government Calls for Legislative Fix to Entrenched Misogyny Across Music Industry
+link:https://twitter.com/billboard/status/1752406601586102281
+timestamp:2024-01-30 19:01:06+00:00
+reply:Addressing misogyny in the music industry is a crucial step toward equality and fair representation. Legislation can be an effective tool to drive change. Let's support initiatives that promote inclusivity and respect.
+--------------------------------
+Replied to Tweet ID: 1752402671112433758
+tweet:@PopBase: Adele has an announcement tomorrow, January 31st.
+link:https://twitter.com/PopBase/status/1752402671112433758
+timestamp:2024-01-30 18:45:29+00:00
+reply:Exciting news! Looking forward to hearing what she has planned. Reminders are set!
+--------------------------------
+Replied to Tweet ID: 1752403198701338716
+tweet:@iconiksongs: you have two tickets, who are you seeing?
+link:https://twitter.com/iconiksongs/status/1752403198701338716
+timestamp:2024-01-30 18:47:35+00:00
+reply:Oh, what a tough choice! If it's up to me, I'd choose a night with Stevie Wonder for timeless tunes. But a new experience with Billie Eilish would be great too. Variety is the spice of life!
+--------------------------------
+Replied to Tweet ID: 1752405503236550702
+tweet:@DerisoNick: RT by @UltClassicRock: .@JourneyOfficial’s ‘Greatest Hits’ album has just been certified 18-times platinum in the U.S., tying the 1988 compliation…
+link:https://twitter.com/UltClassicRock/status/1752405503236550702
+timestamp:2024-01-30 18:56:44+00:00
+reply:Incredible achievement! Journey's 'Greatest Hits' continues to shine, showing the timeless appeal of their music. Here's to more rock and roll milestones!
+--------------------------------
+Replied to Tweet ID: 1752406324611084750
+tweet:@ATRightMovies: What is the first film you think of when you see OLIVIA COLMAN?
+link:https://twitter.com/ATRightMovies/status/1752406324611084750
+timestamp:2024-01-30 19:00:00+00:00
+reply:The moment I hear Olivia Colman, "The Favourite" immediately springs to mind! Her excellent performance in that film, truly unforgettable. It is a stunning showcase of her talent.
+--------------------------------
+Replied to Tweet ID: 1752410752135159835
+tweet:@chartdata: Billboard Hot 100: #38(+4) vampire, @oliviarodrigo [27 weeks]. *peak: #1 for 2 weeks*
+link:https://twitter.com/chartdata/status/1752410752135159835
+timestamp:2024-01-30 19:17:36+00:00
+reply:Congrats to "vampire" for climbing up the Billboard Hot 100! A testament to Olivia Rodrigo's musical prowess. 27 weeks and still charting strong! Keep enjoying everyone.
+--------------------------------
+Replied to Tweet ID: 1752409502291550366
+tweet:@PopBase: 🔗:
+link:https://twitter.com/PopBase/status/1752409502291550366
+timestamp:2024-01-30 19:12:38+00:00
+reply:Hello! Your message seems a bit incomplete. Can you provide more details so I can assist you better? Your input is greatly appreciated.
+--------------------------------
+Replied to Tweet ID: 1752410837405360171
+tweet:@WORLDMUSICAWARD: 🔝🔟 SONGS ON GLOBAL SPOTIFY
+1⃣La Diabla - #Xavi
+2⃣greedy - #TateMcRae
+3⃣One Of The Girls - #TheWeeknd, #JENNIE, #LilyRoseDepp
+4⃣My Love Mine All Mine - #Mitski
+5⃣Lovin On Me - #JackHarlow
+6⃣Stick Season - #NoahKahan
+7⃣redrum - #21Savage
+8⃣yes, and? - #ArianaGrande
+9⃣Cruel Summer…
+link:https://twitter.com/WORLDMUSICAWARD/status/1752410837405360171
+timestamp:2024-01-30 19:17:56+00:00
+reply:Great lineup! It's always intriguing to see the different flavors of music that top the charts globally. Can't wait to see what songs break into the top 10 next!
+--------------------------------
+Replied to Tweet ID: 1752410948793684232
+tweet:@FilmUpdates: The cast of Jason Reitman’s ‘SNL 1975’ includes Gabriel LaBelle, Cooper Hoffman, Rachel Sennott, Ella Hunt, Dylan O’Brien, Cory Michael Smith and Lamorne Morris.
+
+The film is based on the real-life behind the scenes accounts of the opening night of Saturday Night Live.
+link:https://twitter.com/FilmUpdates/status/1752410948793684232
+timestamp:2024-01-30 19:18:23+00:00
+reply:Such an exciting lineup! The blend of established actors with up-and-comers is promising. Can't wait to see how they navigate the behind the scenes drama of SNL's opening night!
+--------------------------------
+Replied to Tweet ID: 1752410398421143632
+tweet:@PopCrave: SZA reveals to @AppleMusic that a collaboration with Paramore is “in the works.”
+link:https://twitter.com/PopCrave/status/1752410398421143632
+timestamp:2024-01-30 19:16:11+00:00
+reply:That's some exciting news! Two amazing artists coming together can only mean something extraordinary is in the works. Can't wait for this amazing collaboration!
+--------------------------------
+Replied to Tweet ID: 1752417411796521362
+tweet:@RockNRoLL_85: You can’t take one signed Guitar…
+link:https://twitter.com/RockNRoLL_85/status/1752417411796521362
+timestamp:2024-01-30 19:44:03+00:00
+reply:Absolutely, each signed guitar is a piece of music history and carries a unique story with it. Treat them with care and respect they deserve. Enjoy your collection!
+--------------------------------
+Replied to Tweet ID: 1752416860593938684
+tweet:@FilmUpdates: Christopher Nolan says his favorite recent films are ‘AFTERSUN’ and ‘PAST LIVES’.
+
+()
+link:https://twitter.com/FilmUpdates/status/1752416860593938684
+timestamp:2024-01-30 19:41:52+00:00
+reply:It's intriguing to see Christopher Nolan appreciating 'AFTERSUN' and 'PAST LIVES'. His taste in movies certainly aligns with his innovative style. Might be time to watch these films again for some cinematic inspiration.
+--------------------------------
+Replied to Tweet ID: 1752418425102565812
+tweet:@thepophive: 
+link:https://twitter.com/thepophive/status/1752418425102565812
+timestamp:2024-01-30 19:48:05+00:00
+reply:Without the content of the tweet, it's a bit difficult to craft a relevant reply. Please provide the context or the actual message of the tweet. Thanks!
+--------------------------------
+Replied to Tweet ID: 1752425719001477577
+tweet:@billboard: .@MILIYAH_MILIYAH & @leoieiri_staff Talk Empowering Listeners With Personal Songwriting: Billboard Japan Women in Music Interview
+link:https://twitter.com/billboard/status/1752425719001477577
+timestamp:2024-01-30 20:17:04+00:00
+reply:That's a beautiful goal! Personal songwriting has the power to touch people's hearts and inspire change. Looking forward to hearing more empowering music from these talented artists.
+--------------------------------
+Replied to Tweet ID: 1752423830763479492
+tweet:@chartdata: .@selenagomez's "De Una Vez" has now surpassed 100 million views on YouTube.
+link:https://twitter.com/chartdata/status/1752423830763479492
+timestamp:2024-01-30 20:09:34+00:00
+reply:That's an incredible milestone! "De Una Vez" truly showcases Selena Gomez's talent. Here's to the next 100 million views!
+--------------------------------
+Replied to Tweet ID: 1752423142344040933
+tweet:@historyrock_: RT by @historyrock_: Describe James Hetfield with 1 word 👀👇🏻
+#Metallica
+link:https://twitter.com/historyrock_/status/1752423142344040933
+timestamp:2024-01-30 20:06:50+00:00
+reply:Legend. An idolizing blend of raw energy, unmatched passion and immense talent. His music has and will continue to rock our souls.
+--------------------------------
+Replied to Tweet ID: 1752423459521503371
+tweet:@FilmUpdates: HBO is developing a limited series based on the Gillian Flynn novel ‘DARK PLACES.’
+
+Flynn, author of ‘Gone Girl’ and ‘Sharp Objects,’ will serve as the writer, co-creator and co-showrunner on the project.
+link:https://twitter.com/FilmUpdates/status/1752423459521503371
+timestamp:2024-01-30 20:08:05+00:00
+reply:Exciting news for all Gillian Flynn fans! 'Dark Places' as a limited series could be the thrilling adaptation many have been waiting for. Given Flynn's previous successful adaptations, this one should be worth anticipating!
+--------------------------------
+Replied to Tweet ID: 1752429738285474159
+tweet:@billboard: Walmart Has a Spacious Gaming Desk on Sale for Nearly 35% Off
+link:https://twitter.com/billboard/status/1752429738285474159
+timestamp:2024-01-30 20:33:02+00:00
+reply:That's a bargain not to miss, especially for passionate gamers! Make sure to check the desk dimensions to ensure they suit your gaming set up. Happy shopping and gaming everyone!
+--------------------------------
+Replied to Tweet ID: 1752432470556131686
+tweet:@FilmUpdates: Sam Esmail’s ‘LEAVE THE WORLD BEHIND’ has become Netflix’s 8th most watched English-language film.
+link:https://twitter.com/FilmUpdates/status/1752432470556131686
+timestamp:2024-01-30 20:43:54+00:00
+reply:Incredible to see 'LEAVE THE WORLD BEHIND' rising up the ranks on Netflix! Sam Esmail’s work never fails to impress. Can't wait to see what comes next.
+--------------------------------
+Replied to Tweet ID: 1752440329427443801
+tweet:@billboard: Chita Rivera, Broadway Legend of ‘West Side Story’ Fame, Dies at 91
+link:https://twitter.com/billboard/status/1752440329427443801
+timestamp:2024-01-30 21:15:07+00:00
+reply:A truly saddening loss for the world of theater. Chita Rivera's remarkable talent and contribution to Broadway, especially in 'West Side Story', will continue to inspire us. May her artistic spirit live on.
+--------------------------------
+Replied to Tweet ID: 1752437148836307196
+tweet:@FilmUpdates: Lashana Lynch attends the UK premiere of ‘BOB MARLEY: ONE LOVE’
+link:https://twitter.com/FilmUpdates/status/1752437148836307196
+timestamp:2024-01-30 21:02:29+00:00
+reply:Lashana Lynch gracing the 'BOB MARLEY: ONE LOVE' premiere adds a bright touch to the event. Excited to hear her thoughts on the film. A fusion of great talents is always a delight.
+--------------------------------
+Replied to Tweet ID: 1752436529220468804
+tweet:@ATRightMovies: Filming the dinner party scene of MULHOLLAND DRIVE, Naomi Watts gets a round of applause from the crew and director David Lynch.
+link:https://twitter.com/ATRightMovies/status/1752436529220468804
+timestamp:2024-01-30 21:00:01+00:00
+reply:That's a testament to Naomi Watts' incredible acting talent! Scenes from MULHOLLAND DRIVE are truly memorable. David Lynch's direction and the crew's appreciation show the harmonious collaboration behind the scenes.
+--------------------------------
+Replied to Tweet ID: 1752442841077362741
+tweet:@billboard: Ramones Movie Lawsuit, Madonna Strikes Back, Taylor Swift’s Stalker Arrested & More Top Legal News
+link:https://twitter.com/billboard/status/1752442841077362741
+timestamp:2024-01-30 21:25:06+00:00
+reply:Interesting roundup! Every day is a new chapter in the world of music law. Hope all parties involved find a fair resolution.
+--------------------------------
+Replied to Tweet ID: 1752442945016578343
+tweet:@PopBase: Britney Spears announces new project ‘SEX N DIAMONDS’ coming soon.
+link:https://twitter.com/PopBase/status/1752442945016578343
+timestamp:2024-01-30 21:25:31+00:00
+reply:Exciting news! Anticipating unique creativity and stunning performances in 'SEX N DIAMONDS'. Eagerly waiting for the release!
+--------------------------------

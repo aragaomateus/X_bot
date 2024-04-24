@@ -1,0 +1,45 @@
+Report of Successful Tweets
+Total Successful Posts: 5
+Total bot runs: 1
+Avg Posts per Run: 5.0
+# Replies Frequency per URL # 
+https://rss.app/feeds/D0rdoyggUqo9sb8P.xml : 1
+https://rss.app/feeds/buuO3P4us5Z5vK7k.xml : 1
+https://rss.app/feeds/Sh6a8c7kumlSaOAc.xml : 1
+https://rss.app/feeds/ifLDZNGwTtgA57Wu.xml : 1
+https://rss.app/feeds/1ElygOT0SPNp00TF.xml : 1
+ # --------------------------------- # 
+Replied to Tweet ID: 1752363855454327195
+tweet:@billboard: MLC and DLC Begin First Re-Designation Process Since MMA Passage
+link:https://twitter.com/billboard/status/1752363855454327195
+timestamp:2024-01-30 16:11:15+00:00
+reply:It's great to see the music industry taking steps forward with MLC & DLC starting their first re-designation process since the MMA passage. This shows a commitment to evolution and fairness. Can't wait to see the outcomes and benefits!
+--------------------------------
+Replied to Tweet ID: 1752366013910323396
+tweet:@historyrock_: RT by @historyrock_: Today in 1969, The Beatles performed their legendary rooftop concert in London.
+
+They played for the city for 42 minutes…
+link:https://twitter.com/historyrock_/status/1752366013910323396
+timestamp:2024-01-30 16:19:49+00:00
+reply:What a momentous event! The Beatles' rooftop concert will forever be etched in music history. Thanks for the throwback, it's always a joy to remember.
+--------------------------------
+Replied to Tweet ID: 1752366967368110360
+tweet:@FilmUpdates: 25 years ago, ‘FAMILY GUY’ premiered.
+link:https://twitter.com/FilmUpdates/status/1752366967368110360
+timestamp:2024-01-30 16:23:37+00:00
+reply:What a milestone! 'Family Guy' has been delivering laughs and entertainment for a quarter of a century. Here's to the iconic characters and moments that made television history!
+--------------------------------
+Replied to Tweet ID: 1752366057656926356
+tweet:@PopCrave: 'Family Guy' premiered 25 years ago.
+link:https://twitter.com/PopCrave/status/1752366057656926356
+timestamp:2024-01-30 16:20:00+00:00
+reply:Wow, time really flies! 'Family Guy' has given us 25 years of laughter and entertainment. Here's to more hilarious years to come!
+--------------------------------
+Replied to Tweet ID: 1752366316340621564
+tweet:@JakeRudh: On this day in 1985, Killing Joke released "Love Like Blood" - the second single from their fifth studio album “Night Time”
+
+“'Til the fearless come…and the act is done”
+link:https://twitter.com/JakeRudh/status/1752366316340621564
+timestamp:2024-01-30 16:21:01+00:00
+reply:What a classic! "Love Like Blood" truly stands as a testament to Killing Joke's unique sound. It's hard to believe it's been this long since the world first heard it. Still as chilling as ever!
+--------------------------------

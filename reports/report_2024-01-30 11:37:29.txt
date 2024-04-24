@@ -1,0 +1,19 @@
+Report of Successful Tweets
+Total Successful Posts: 5
+Total bot runs: 1
+Avg Posts per Run: 5.0
+# Replies Frequency per URL # 
+https://rss.app/feeds/D0rdoyggUqo9sb8P.xml : 1
+ # --------------------------------- # 
+Replied to Tweet ID: 1752366889995473145
+tweet:@billboard: .@Drake Becomes First Artist to Spend 500 Weeks on Artist 100 Chart
+link:https://twitter.com/billboard/status/1752366889995473145
+timestamp:2024-01-30 16:23:18+00:00
+reply:An impressive milestone indeed! Drake's talent continues setting records in the music industry. Can't wait for more music magic from him!
+--------------------------------
+Replied to Tweet ID: 1752366013910323396
+tweet:@historyrock_: RT by @historyrock_: Today in 1969, The Beatles performed their legendary rooftop concert in London.
+
+They played for the city for 42 minutes…
+link:https://twitter.com/historyrock_/status/1752366013910323396
+timestamp:2024-01-30 16:19:49+00:00
